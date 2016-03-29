@@ -1,0 +1,5 @@
+D:\SoftUni\4\homework\homework\ConsoleInputOutput\FormattingNumbers\bin\Debug\FormattingNumbers.exe.config
+D:\SoftUni\4\homework\homework\ConsoleInputOutput\FormattingNumbers\bin\Debug\FormattingNumbers.exe
+D:\SoftUni\4\homework\homework\ConsoleInputOutput\FormattingNumbers\bin\Debug\FormattingNumbers.pdb
+D:\SoftUni\4\homework\homework\ConsoleInputOutput\FormattingNumbers\obj\Debug\FormattingNumbers.exe
+D:\SoftUni\4\homework\homework\ConsoleInputOutput\FormattingNumbers\obj\Debug\FormattingNumbers.pdb

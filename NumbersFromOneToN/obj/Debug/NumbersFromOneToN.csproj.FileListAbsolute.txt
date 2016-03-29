@@ -1,0 +1,5 @@
+D:\SoftUni\4\homework\homework\ConsoleInputOutput\NumbersFromOneToN\bin\Debug\NumbersFromOneToN.exe.config
+D:\SoftUni\4\homework\homework\ConsoleInputOutput\NumbersFromOneToN\bin\Debug\NumbersFromOneToN.exe
+D:\SoftUni\4\homework\homework\ConsoleInputOutput\NumbersFromOneToN\bin\Debug\NumbersFromOneToN.pdb
+D:\SoftUni\4\homework\homework\ConsoleInputOutput\NumbersFromOneToN\obj\Debug\NumbersFromOneToN.exe
+D:\SoftUni\4\homework\homework\ConsoleInputOutput\NumbersFromOneToN\obj\Debug\NumbersFromOneToN.pdb

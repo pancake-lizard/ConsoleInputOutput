@@ -1,0 +1,5 @@
+D:\SoftUni\4\homework\homework\ConsoleInputOutput\SumOfFiveNumbers\bin\Debug\SumOfFiveNumbers.exe.config
+D:\SoftUni\4\homework\homework\ConsoleInputOutput\SumOfFiveNumbers\bin\Debug\SumOfFiveNumbers.exe
+D:\SoftUni\4\homework\homework\ConsoleInputOutput\SumOfFiveNumbers\bin\Debug\SumOfFiveNumbers.pdb
+D:\SoftUni\4\homework\homework\ConsoleInputOutput\SumOfFiveNumbers\obj\Debug\SumOfFiveNumbers.exe
+D:\SoftUni\4\homework\homework\ConsoleInputOutput\SumOfFiveNumbers\obj\Debug\SumOfFiveNumbers.pdb

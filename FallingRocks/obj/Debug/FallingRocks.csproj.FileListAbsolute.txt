@@ -1,0 +1,5 @@
+D:\SoftUni\4\homework\homework\ConsoleInputOutput\FallingRocks\bin\Debug\FallingRocks.exe.config
+D:\SoftUni\4\homework\homework\ConsoleInputOutput\FallingRocks\bin\Debug\FallingRocks.exe
+D:\SoftUni\4\homework\homework\ConsoleInputOutput\FallingRocks\bin\Debug\FallingRocks.pdb
+D:\SoftUni\4\homework\homework\ConsoleInputOutput\FallingRocks\obj\Debug\FallingRocks.exe
+D:\SoftUni\4\homework\homework\ConsoleInputOutput\FallingRocks\obj\Debug\FallingRocks.pdb

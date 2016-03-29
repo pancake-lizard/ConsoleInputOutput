@@ -1,0 +1,5 @@
+D:\SoftUni\4\homework\homework\ConsoleInputOutput\NumbersInIntervalDividableByGivenNumber\bin\Debug\NumbersInIntervalDividableByGivenNumber.exe.config
+D:\SoftUni\4\homework\homework\ConsoleInputOutput\NumbersInIntervalDividableByGivenNumber\bin\Debug\NumbersInIntervalDividableByGivenNumber.exe
+D:\SoftUni\4\homework\homework\ConsoleInputOutput\NumbersInIntervalDividableByGivenNumber\bin\Debug\NumbersInIntervalDividableByGivenNumber.pdb
+D:\SoftUni\4\homework\homework\ConsoleInputOutput\NumbersInIntervalDividableByGivenNumber\obj\Debug\NumbersInIntervalDividableByGivenNumber.exe
+D:\SoftUni\4\homework\homework\ConsoleInputOutput\NumbersInIntervalDividableByGivenNumber\obj\Debug\NumbersInIntervalDividableByGivenNumber.pdb
